@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ترجِم شاشتي</string>
+    <string name="subtitle">ترجمة كل نص على شاشتك، داخل أي تطبيق، بضغطة وحدة على الزر العائم. بدون إنترنت.</string>
+
+    <string name="step1_title">١. تحميل نماذج الترجمة (مرة واحدة فقط)</string>
+    <string name="step1_note">تحتاج إنترنت هذه المرة فقط لتحميل نموذجي العربية والإنجليزية (حجمهما حوالي ٦٠ ميجابايت). بعدها يشتغل التطبيق بدون إنترنت تماماً.</string>
+    <string name="btn_download_models">تحميل النماذج</string>
+    <string name="models_ready">✔ النماذج جاهزة، التطبيق يشتغل بدون إنترنت</string>
+    <string name="models_missing">النماذج غير محمّلة بعد</string>
+    <string name="models_downloading">جاري التحميل…</string>
+    <string name="models_failed">فشل التحميل، تأكد من الإنترنت وحاول مرة ثانية</string>
+
+    <string name="step2_title">٢. تفعيل الخدمة</string>
+    <string name="step2_note">فعّل «ترجِم شاشتي» من إعدادات إمكانية الوصول، ثم ارجع لأي تطبيق وستجد الزر العائم. الخدمة تقرأ النصوص الظاهرة فقط لترجمتها على جوالك، ولا تُحفظ ولا تُرسل لأي مكان.</string>
+    <string name="btn_enable_service">تفعيل الخدمة</string>
+    <string name="service_on">✔ الخدمة مفعّلة، الزر العائم ظاهر</string>
+    <string name="service_off">الخدمة غير مفعّلة</string>
+
+    <string name="step3_title">٣. اتجاه الترجمة</string>
+    <string name="dir_hint">اضغط على الزر لتبديل الاتجاه</string>
+    <string name="dir_ar_en">عربي ← إنجليزي</string>
+    <string name="dir_en_ar">إنجليزي ← عربي</string>
+
+    <string name="restricted_note">ملاحظة: إذا ثبّتّ التطبيق من ملف APK وظهرت رسالة «إعداد مقيّد»، افتح معلومات التطبيق، ثم ⋮ في الأعلى، ثم «السماح بالإعدادات المقيّدة»، وارجع فعّل الخدمة.</string>
+
+    <string name="btn_translate">ترجم</string>
+    <string name="btn_working">...</string>
+    <string name="btn_cancel">إلغاء</string>
+
+    <string name="err_no_content">ما قدرت أقرأ هذه الشاشة</string>
+    <string name="msg_nothing">ما لقيت نصاً للترجمة على هذه الشاشة</string>
+    <string name="err_models">حمّل نماذج الترجمة أولاً من التطبيق (تحتاج إنترنت مرة وحدة)</string>
+
+    <string name="service_description">يقرأ النصوص الظاهرة على الشاشة ويعرض ترجمتها فوقها. الترجمة تتم على جوالك ولا تُرسل النصوص لأي مكان.</string>
+</resources>
